@@ -120,7 +120,7 @@ Open `EasyVisa_VaishnaviHP.ipynb` in **Google Colab** or **Jupyter Notebook**.
 ## 📬 Contact
 
 For queries, feedback, or collaborations:
-**Email:** \[[your-email@example.com](mailto:vaishnavihpde@example.com)]
-**LinkedIn:** \[[Your LinkedIn URL](https://www.linkedin.com/in/vaishnavi-palyam-a190952ab/)]
+**Email:** \[[mail](mailto:vaishnavihpde@example.com)]
+**LinkedIn:** \[[LinkedIn URL](https://www.linkedin.com/in/vaishnavi-palyam-a190952ab/)]
 
 
